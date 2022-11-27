@@ -1,0 +1,3 @@
+taki;taki;admin;
+taki2;taki;customer;
+taki4;taki4;customer;

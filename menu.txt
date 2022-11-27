@@ -1,0 +1,6 @@
+name;15;
+name;10;
+name;30;
+name;1;
+name;3.40;
+name;6.50;
